@@ -26,7 +26,7 @@
 
 ## 🚀 Deploy
 
-You can visit the project deployment [here](https://marcoftmartins.github.io/boraCodar-01-music-player/).
+You can visit the project deployment [here](https://marcoftmartins.github.io/boraCodar-02-product-card/).
 
 ## 🚧 Project features
 
