@@ -18,6 +18,7 @@ body {
   grid-template-areas: 'A B';
   place-content: center;
   height: 100vh;
+  overflow: hidden;
 }
 
 .product-image {
@@ -27,7 +28,7 @@ body {
 
 .buttons {
   position: absolute;
-  right: 40px;
+  right: 1.5rem;
 }
 
 .buttons:hover {
@@ -88,8 +89,16 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: auto;
+    height: 100vh;
     margin: auto;
     align-items: center;
+
+    .product-info {
+      margin: 0;
+    }
+
+    .info-text {
+      font-size: 0.9rem;
+    }
   }
 }
