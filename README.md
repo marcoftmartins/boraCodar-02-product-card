@@ -22,11 +22,11 @@
   📃 Project preview
 </h2>
 
-![image](https://prnt.sc/EUT7Cu5DzENq)
+![image](https://github.com/marcoftmartins/boraCodar-02-product-card/assets/47821731/74c2cc5b-fd9f-4ba3-8147-71b8f6af0c3c)
 
 ## 🚀 Deploy
 
-You can visit the project deployment [here](https://marcoftmartins.github.io/boraCodar-01-music-player/).
+You can visit the project deployment [here](https://marcoftmartins.github.io/boraCodar-02-product-card/).
 
 ## 🚧 Project features
 
